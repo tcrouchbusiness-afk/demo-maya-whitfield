@@ -1,0 +1,37 @@
+# Maya Whitfield — Cumberland Street Realty
+
+> East Nashville, from someone who walks it. I live in Lockeland Springs and sell the east side, Germantown, and 12 South. Real prices, real streets, and a straight answer about what a house is worth.
+
+Maya Whitfield is a licensed real estate agent (TN license 000000 (demo)) with Cumberland Street Realty, living in Lockeland Springs and working East Nashville, Germantown, 12 South in Nashville, Tennessee. I bought a 1920s bungalow on Holly Street in 2019, put a new roof on it, and learned the east side one block at a time. Since 2021 I've helped 38 households buy or sell between the river and Gallatin Pike, plus a growing handful in Germantown and 12 South, which is where my east-side clients go when they want a walk to a coffee shop and a smaller yard.
+
+I'm not a team. You get me on the phone, at the showing, and at the closing table. I'll tell you which streets flood in a hard rain, which blocks back up to the rail line, and which "renovated" listing still has knob-and-tube in the attic.
+
+Contact: (615) 555-0142 · maya@example.com
+
+## Areas
+- [East Nashville](https://demo-maya-whitfield.vercel.app/areas/east-nashville.html): Bungalows, porches, and the restaurants people cross the river for, ten minutes from downtown. Homes roughly $300,000–$1,100,000 as of 2026-09-07 (RealTracs median sold price, East Nashville market report).
+- [Germantown](https://demo-maya-whitfield.vercel.app/areas/germantown.html): Brick townhomes and restaurants on a walkable grid, five minutes north of downtown. Homes roughly $775,000–$2,400,000 as of 2026-09-07 (Active for-sale listings, RealTracs via nashvillesmls.com).
+- [12 South](https://demo-maya-whitfield.vercel.app/areas/12-south.html): Sevier Park, the mural, and a strip of shops you'll walk to every weekend. Homes roughly $165,000–$5,299,000 as of 2026-09-07 (RealTracs active listings via nashvillesmls.com; median shown is the average list price).
+
+## Buying
+Most of my buyers are moving across town or across the country and have three weekends to figure out a neighborhood I've spent seven years in. So we don't tour twenty houses. We tour six, and I tell you what I'd pay for each one and why.
+
+## Selling
+Your house is worth what the last three comparable sales on your block say it is, adjusted for what you've done to it. I'll show you those three sales, tell you the number, and tell you what two weekends of work would add to it.
+
+## Questions people ask
+- East Nashville, Germantown, or 12 South? East Nashville if you want a yard, a porch, and the most house for the money. Germantown if you want to walk to dinner and don't need a yard. 12 South if you want both and can pay for it.
+- What's the commute from East Nashville to downtown? About ten minutes by car over the Woodland Street bridge, or twenty to twenty-five by bike on the Shelby Bottoms greenway.
+- How do I find out what my house is worth? Text me the address. I'll pull the last three comparable sales on your block and send you a number with the comps attached, usually the same day.
+- Do you work with first-time buyers? Yes, and I'll spend the first call on lending and what monthly payment you're comfortable with before we look at a single listing.
+- What's the price range you work in? Most of my closings are between $350,000 and $1,200,000. I'm glad to work above or below that; the neighborhoods I know run the whole range.
+- Are you on a team? No. You get me at the showing, on the phone, and at closing.
+
+## Pages
+- [Home](https://demo-maya-whitfield.vercel.app/)
+- [East Nashville homes for sale](https://demo-maya-whitfield.vercel.app/areas/east-nashville.html)
+- [Germantown homes for sale](https://demo-maya-whitfield.vercel.app/areas/germantown.html)
+- [12 South homes for sale](https://demo-maya-whitfield.vercel.app/areas/12-south.html)
+
+
+Note: this is a demonstration site built by a template system; the agent shown is fictional.
