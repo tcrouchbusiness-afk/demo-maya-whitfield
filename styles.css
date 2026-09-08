@@ -15,7 +15,8 @@ main>section,.area-page>section{max-width:var(--max);margin:0 auto;padding:64px 
 .fine,small{font-size:13px;color:var(--muted)}
 /* nav */
 .nav{display:flex;justify-content:space-between;align-items:center;padding:18px 24px;max-width:var(--max);margin:0 auto;position:sticky;top:0;background:color-mix(in srgb,var(--ground) 92%,transparent);backdrop-filter:blur(8px);z-index:5}
-.nav .brand{font-family:var(--serif);font-size:22px;text-decoration:none;font-weight:600}
+.nav .brand{font-family:var(--serif);font-size:20px;text-decoration:none;font-weight:600;display:flex;flex-direction:column;line-height:1.15}
+.nav .brand .firm{font-size:20px}.nav .brand .agent{font-size:20px;font-weight:500;font-style:italic}
 .nav nav{display:flex;gap:22px;align-items:center;font-size:14px;font-weight:500}
 .nav nav a{text-decoration:none}
 .nav .phone{border:1px solid var(--ink);padding:8px 14px;border-radius:2px}
